@@ -15,7 +15,7 @@ namespace Hola_Mundo
         static void Main(string[] args)
         {
             //Permite escribir una linea en la consola
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo!");
             //Permite Pausar el programa hasta que presione una tecla
             Console.ReadKey();
         }
